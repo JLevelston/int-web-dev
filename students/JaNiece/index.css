@@ -67,3 +67,9 @@ ol li, ul li{
   color: white;
   line-height: 27px;
 }
+
+footer{
+  background-color: black;
+  color: white;
+  float: right;
+}
