@@ -1,10 +1,10 @@
-body{
+body {
   background-image: url("https://c4.wallpaperflare.com/wallpaper/835/7/584/marvel-comics-spider-man-the-avengers-avengers-infinity-war-wallpaper-preview.jpg");
   background-repeat: no-repeat;
   background-size: 2500px;
 }
 
-.logo{
+.logo {
   width: 150px;
   height: 70px;
   float: left;
@@ -12,12 +12,12 @@ body{
   margin-right: 20px;
 }
 
-nav{
+nav {
   background: black;
   overflow: hidden;
 }
 
-nav a{
+nav a {
   text-align: center;
   text-decoration: none;
   display: block;
@@ -26,34 +26,34 @@ nav a{
   color: white;
 }
 
-nav a.right{
+nav a.right {
   float: right;
 }
 
-nav a:hover{
+nav a:hover {
   background-color: #b78161;
   color: white;
 }
 
-nav a:active{
+nav a:active { 
   background-color: #541516;
   color: white;
 }
 
-h2{
+h2 {
   text-align: center;
   text-decoration: underline;
   color: white;
 }
 
-p{
+p {
   line-height: 38px;
   color: white;
   font-size: 20px;
   text-indent: 50px;
 }
 
-.about, .now, .goals{
+.about, .now, .goals {
   float: left;
   width: 50%;
   height: auto;
@@ -63,12 +63,12 @@ p{
   padding: 15px;
 }
 
-ol li, ul li{
+ol li, ul li {
   color: white;
   line-height: 27px;
 }
 
-footer{
+footer {
   background-color: black;
   color: white;
   float: right;
