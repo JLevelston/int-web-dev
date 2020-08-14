@@ -35,7 +35,11 @@ nav a:hover {
   color: white;
 }
 
+<<<<<<< HEAD
 nav a:active {
+=======
+nav a:active { 
+>>>>>>> 2067b75e31d8f64f8c51d714ba857fe21ab190aa
   background-color: #541516;
   color: white;
 }
